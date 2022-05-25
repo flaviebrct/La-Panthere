@@ -730,6 +730,22 @@ h4 {
     color: #333333!important;
 }
 
+.title {
+    font-size: 19px;
+}
+.citation {
+    font-size: 20px;
+    font-family: "helvetica";
+    font-style: italic;
+    width: 73%;
+    margin: auto;
+}
+
+.citation + p {
+    font-size: 19px;
+    font-weight: 300;
+}
+
 .icons {
     margin-bottom: 14px;
     margin-top: 24px;
